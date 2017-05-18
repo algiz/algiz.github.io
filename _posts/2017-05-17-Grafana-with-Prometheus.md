@@ -1,4 +1,9 @@
-# Grafana with Prometheus 
+---
+layout: post
+title: Grafana with Prometheus
+feature-img: "img/sample_feature_img.png"
+---
+
 
 1. Install Grafana, using docker
 
@@ -12,13 +17,12 @@
 
    require: Golang
 
-```shell
-go get bosun.org/scollector
-go get github.com/tgulacsi/prometheus_scollector
-
-prometheus_scollector -http=0.0.0.0:9107
-scollector -h=<the-collector-machine>:9107
-```
+   ```shell
+   go get bosun.org/scollector
+   go get github.com/tgulacsi/prometheus_scollector
+   prometheus_scollector -http=0.0.0.0:9107
+   scollector -h=<the-collector-machine>:9107
+   ```
 
 1. add config to promethueus config
 
