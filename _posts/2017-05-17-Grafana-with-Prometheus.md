@@ -2,6 +2,7 @@
 layout: post
 title: Grafana with Prometheus
 feature-img: "img/sample_feature_img.png"
+tag: [Grafana, Dock]
 ---
 
 
