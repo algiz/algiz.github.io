@@ -2,11 +2,7 @@
 layout: post
 title: Grafana with Prometheus
 feature-img: "img/sample_feature_img.png"
-<<<<<<< HEAD
-tag: [Grafana, Dock]
-=======
 tag: [Grafana, Prometheus, Docker]
->>>>>>> 8e17e637b8045e29623e73e185e6755d246e7ec2
 ---
 
 
