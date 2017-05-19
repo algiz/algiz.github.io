@@ -40,3 +40,12 @@
   padding: $padding-small $padding-large 0 $padding-large;
   text-align: center;
 }
+
+.post-tag {
+  border: 1px solid $link-color;
+  -moz-border-radius: 5px; 
+  -webkit-border-radius: 5px; 
+  border-radius: 5px;
+  padding: 1px;
+  margin: 1em 3px;
+}

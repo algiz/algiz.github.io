@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://algiz.github.io" # the base hostname & protocol for your site
+tags_page: "tags/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
