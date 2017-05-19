@@ -2,8 +2,7 @@
 layout: post
 title: '使用Toastr 取代 Flash notice'
 date: 2015-06-26 23:15
-comments: true
-categories: 
+tag: [web, rails]
 ---
 application.js & applications.scss
 
